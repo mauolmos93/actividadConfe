@@ -34,6 +34,7 @@ header a {
   align-items: flex-end;
   color: white;
   flex-direction: column;
+  
 }
 
 footer {
@@ -84,4 +85,7 @@ ul li a {
 .navBar {
   padding-right: 50px;
   padding-left: 50px;
+}
+#btnVerde{
+  color: #25a342 !important;
 }
